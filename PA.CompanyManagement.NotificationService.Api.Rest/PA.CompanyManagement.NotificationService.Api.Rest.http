@@ -1,0 +1,6 @@
+@PA.CompanyManagement.NotificationService.Api.Rest_HostAddress = http://localhost:5109
+
+GET {{PA.CompanyManagement.NotificationService.Api.Rest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
