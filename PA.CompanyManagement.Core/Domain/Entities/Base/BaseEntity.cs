@@ -5,7 +5,7 @@ using System.Text;
 
 namespace PA.CompanyManagement.Core.Domain.Entities.Base
 {
-    public abstract class BaseEntities
+    public abstract class BaseEntity
     {
         [Key] public Guid Id {get; set; }
 
