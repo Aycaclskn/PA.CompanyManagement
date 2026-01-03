@@ -16,7 +16,7 @@
   </Folder>
   <Folder Name="/SRC/Services/EmployeeService/">
     <Project Path="PA.CompanyManagement.EmployeeService.Api.Grpc/PA.CompanyManagement.EmployeeService.Api.Grpc.csproj" />
-    <Project Path="PA.CompanyManagement.EmployeeService.Api.Rest/PA.CompanyManagement.EmployeeService.Api.Rest.csproj" />
+    <Project Path="PA.CompanyManagement.EmployeeService.Api.Rest/PA.CompanyManagement.EmployeeService.Api.Rest.csproj" Id="f025b440-1e78-4621-8d84-44e2d2ecdcf0" />
     <Project Path="PA.CompanyManagement.EmployeeService.Application/PA.CompanyManagement.EmployeeService.Application.csproj" />
     <Project Path="PA.CompanyManagement.EmployeeService.Infrastructure/PA.CompanyManagement.EmployeeService.Infrastructure.csproj" />
     <Project Path="PA.EmployeeService.Domain/PA.CompanyManagement.EmployeeService.Domain.csproj" />
@@ -30,7 +30,7 @@
   </Folder>
   <Folder Name="/SRC/Services/UserService/">
     <Project Path="PA.CompanyManagement.UserService.Api.Grpc/PA.CompanyManagement.UserService.Api.Grpc.csproj" />
-    <Project Path="PA.CompanyManagement.UserService.Api.Rest/PA.CompanyManagement.UserService.Api.Rest.csproj" />
+    <Project Path="PA.CompanyManagement.UserService.Api.Rest/PA.CompanyManagement.UserService.Api.Rest.csproj" Id="2820ad68-bd73-4978-b7f6-88657ca56f8f" />
     <Project Path="PA.CompanyManagement.UserService.Application/PA.CompanyManagement.UserService.Application.csproj" />
     <Project Path="PA.CompanyManagement.UserService.Domain/PA.CompanyManagement.UserService.Domain.csproj" />
     <Project Path="PA.CompanyManagement.UserService.Insfrastructure/PA.CompanyManagement.UserService.Insfrastructure.csproj" />

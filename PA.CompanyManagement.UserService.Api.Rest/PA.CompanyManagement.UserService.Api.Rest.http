@@ -1,4 +1,4 @@
-@PA.CompanyManagement.UserService.Api.Rest_HostAddress = http://localhost:5267
+@PA.CompanyManagement.UserService.Api.Rest_HostAddress = http://localhost:5190
 
 GET {{PA.CompanyManagement.UserService.Api.Rest_HostAddress}}/weatherforecast/
 Accept: application/json
