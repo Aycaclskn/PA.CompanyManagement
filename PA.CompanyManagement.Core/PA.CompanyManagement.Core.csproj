@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Domain\Utils\" />
+    <Folder Include="Extenstions\" />
+  </ItemGroup>
+
 </Project>
